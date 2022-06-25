@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stanislav Iliev
 - 👀 I’m interested in Quality Assurance
-- 🌱 I’m currently learning at SoftUni (C# Advance/OOP,QA Automation)
+- 🌱 I’m currently learning at SoftUni (C# OOP)
 - 📫 How to reach me st.d.iliev@gmail.com , https://www.linkedin.com/in/stanislav-iliev-661994237/
 
 <!---
