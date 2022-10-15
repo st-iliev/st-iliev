@@ -1,6 +1,6 @@
 -  Hi, I’m Stanislav Iliev
--  I’m interested in Quality Assurance
--  I’m currently learning at SoftUni (C# OOP)
+-  I’m interested in Quality Assurance 
+-  I’m finished C#(OOP) and QA Automation Courses  at SoftUni and now looking for job.
 -  How to reach me [Email](st.d.iliev@gmail.com) , [Linkedin](https://www.linkedin.com/in/stanislav-iliev-661994237/)
 
 <!---
